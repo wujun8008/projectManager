@@ -1,0 +1,37 @@
+html, body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.div_toolbar {
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    display: none;
+}
+
+.div_temp_toolbar {
+    position: absolute;
+    width: 100px;
+    height: 30px;
+}
+
+.mr10 {
+    margin-right: 5px;
+}
+
+.tr_temp {
+    min-height: 100px;
+    height: 100px;
+}
+
+.content_tr td {
+    min-height: 100px;
+    height: 100px;
+}
+
+.raty {
+    color: rgb(246, 148, 47);
+}
