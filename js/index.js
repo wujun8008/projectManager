@@ -13,7 +13,7 @@ var data = {
             issue: [{
                 time: "2001-01-01",
                 user: "AAA",
-                content: "如何如何"
+                content: "如何"
             }, {
                 time: "2001-02-02",
                 user: "BBB",
